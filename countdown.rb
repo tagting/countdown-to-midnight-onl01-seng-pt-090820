@@ -6,7 +6,8 @@ def countdown(number)
   print "Happy New Year!".upcase
 end
 
-def countdown(sleep)
+def countdown(number)
+  do 
 
   
 
