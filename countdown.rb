@@ -4,7 +4,7 @@ def countdown(number)
     number -= 1
     break if number == 0
       print "Happy New Year!".upcase
-      end
+    end
   end
 end
   
