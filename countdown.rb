@@ -4,6 +4,7 @@ def countdown(number)
     number -= 1
     break
       print "Happy New Year!".upcase
+    end
 end
 
 def countdown(sleep)
