@@ -11,5 +11,5 @@ def countdown(number)
 print "Happy New Year!".upcase
 end
   
-
+countdown_with_sleep(5)
 
