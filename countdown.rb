@@ -6,7 +6,7 @@ def countdown(number)
     puts "#{number} SECOND(S)!"
     number -= 1
     #binding.pry
-    break if number <= 0
+    #break if number <= 0
   end
 print "Happy New Year!".upcase
 end
