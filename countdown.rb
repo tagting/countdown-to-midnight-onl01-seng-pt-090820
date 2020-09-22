@@ -3,7 +3,7 @@ def countdown(number)
     puts "#{number} SECOND(S)!"
     number -= 1
     break if number == 0
-      print "Happy New Year!".upcase
+  print "Happy New Year!".upcase
   end
 end
   
